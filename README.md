@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amitakhamkar
-- 👀 I’m interested in Cloud technologies
+- 👀 I’m interested in Cloud technologies & DevOps
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on cloud and devops
 - 📫 How to reach me ...
